@@ -1,3 +1,4 @@
 # Responsive-Web-Design
 Recording my journey of learning html and css
-Survey Form:![image](https://user-images.githubusercontent.com/101373296/217511072-a52ef58e-4d3f-473c-8546-88b543f2a445.png)
+Survey Form:![效果图](https://user-images.githubusercontent.com/101373296/217511582-443a6a02-e50f-4235-a133-9fea7472deac.png)
+
